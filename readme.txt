@@ -1,1 +1,1 @@
-This is the Repo for SEO - summer project 
+This is the Repo for SEO 
